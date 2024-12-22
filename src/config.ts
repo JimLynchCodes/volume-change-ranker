@@ -9,9 +9,9 @@
  *   3) Add or remove tokens in the tokens list. All data comes from CoinGecko API
  */
 
-export const RECENT_DATE = '16-12-2024';
+export const RECENT_DATE = '21-12-2024';
 
-export const EARLIER_DATE = '14-12-2024';
+export const EARLIER_DATE = '19-12-2024';
 
 export const TOKENS: ReadonlyArray<string> = [
     "cardano",
@@ -42,3 +42,5 @@ export const TOKENS: ReadonlyArray<string> = [
     "near",
     "sui",
 ]
+
+

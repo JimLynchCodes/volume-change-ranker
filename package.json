@@ -6,6 +6,7 @@
   "main": "index.js",
   "scripts": {
     "start": "tsx ./src/index.ts",
+    "check-coin-names": "tsx ./check-coin-names/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
